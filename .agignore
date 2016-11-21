@@ -2,7 +2,7 @@ coverage/
 tmp/
 log/
 doc/
-db/
+db/migrate/
 *.pdf
 *.eps
 vendor/bundle
