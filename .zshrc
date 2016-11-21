@@ -13,14 +13,12 @@ export LANG=en_US.UTF-8
 # time that oh-my-zsh is loaded.
 ZSH_THEME="crahles"
 
-alias be="bundle exec"
-alias cdkp="cd ~/Code/kaeuferportal"
-alias cdbb="cd ~/Code/branchenbuch"
-alias cdbe="cd ~/Code/beratung"
-alias cdcfb="cd ~/Code/cfb-hasenheide"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias be="bundle exec"
+alias gpl="git pull --rebase"
+alias gps="git push"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
